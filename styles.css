@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .card {
+    width: 250px;
+    height: 220px;
+    /*border: 1px solid black;*/
+    border-radius: 5px;
+    box-shadow: 0 0 10px grey;
+    overflow: hidden;
+  }
+  
+  #bg {
+    height: 150px;
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+  }
+
+  .title, .caption {
+    padding: 6px 5px 2px 12px;
+    margin: 0;
+  }
+
+  h1{
+    font-size: 20px;
+  }
+
+  p{
+    font-size: 12px;
+  }
